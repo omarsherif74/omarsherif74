@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omarsherif74
-- 👀 I’m interested in hybrid mobile software development and front-end web development.
+- 👀 I’m interested in machine learning and AI-related stuff.
 - 🌱 I’m currently learning Computer and Communications Engineering at Alexandria University.
-- 💞️ I’m looking to collaborate on Flutter team projects to learn and develop cross-platform apps using clean and efficient code.
+- 💞️ I’m looking to collaborate on Python AI projects to learn and implement solutions to real world problems using clean, clear, and efficient code.
 - 📫 How to reach me: through email omarsherif74@hotmail.com
 
 <!---
