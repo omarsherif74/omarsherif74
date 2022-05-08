@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omarsherif74
+- 👋 Hi, I’m Omar Sherif, an undergraduate Computer and Communications Engineer.
 - 👀 I’m interested in machine learning and AI-related stuff.
 - 🌱 I’m currently learning Computer and Communications Engineering at Alexandria University.
 - 💞️ I’m looking to collaborate on Python AI projects to learn and implement solutions to real world problems using clean, clear, and efficient code.
