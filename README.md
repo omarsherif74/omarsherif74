@@ -8,7 +8,7 @@
 
 - 🤝 I’m currently looking for **internship opportunities**
 
-- 📫 How to reach me **omarsherif74@hotmail.com**
+- 📫 How to reach me **omarsherifswe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
