@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **open-source team projects**
 
-- 🤝 I’m currently looking for **internship opportunities**
+- 🤝 I’m currently looking for **internships and job opportunities**
 
 - 📫 How to reach me **omarsherifswe@gmail.com**
 
